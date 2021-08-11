@@ -4,6 +4,7 @@ if hello == "yes":
     print("Git is quite interesting")
     print("This is a dummy text for using git reset command")
     print("This is a dummy text for using git reset command")
+    print("This is main branch")
 else:
     computer = input("Do you have a computer")
     if computer == "yes":

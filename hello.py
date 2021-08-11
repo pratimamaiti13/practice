@@ -5,4 +5,6 @@ if hello == "yes":
     print("This is a dummy text for using git reset command")
     print("This is a dummy text for using git reset command")
 else:
-    print("Practice git commands well")
+    computer = input("Do you have a computer")
+    if computer == "yes":
+        print("Practice git very well")
